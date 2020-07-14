@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['soulSend.py'],
-             pathex=['C:/Users/test/Desktop/auto-soul/venv/Lib/site-packages', 'C:\\Users\\test\\Desktop\\auto-soul\\venv\\soul'],
+             pathex=['C:/Users/test/Desktop/private-Git/soul-auto/venv/Lib/site-packages', 'C:\\Users\\test\\Desktop\\private-Git\\soul-auto\\venv\\soul'],
              binaries=[],
              datas=[],
              hiddenimports=[],
